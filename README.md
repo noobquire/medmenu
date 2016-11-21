@@ -23,6 +23,8 @@ Menu features:
 - Spy disguise team chat messages
 - Suicide (no rly)
 
+A small FAQ:
+
 Q: Is this menu automatically tracking your/enemy uber percentage?
 A: No, you have to do this yourself and press the corresponding key, the menu will only notify your teammates
 
